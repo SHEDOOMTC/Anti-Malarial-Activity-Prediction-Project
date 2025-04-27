@@ -1,3 +1,3 @@
-print("Hello Shadrach)
-      import rdkit
+print("Hello Shadrach")
+import rdkit
       
