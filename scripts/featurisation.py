@@ -29,6 +29,7 @@ fingerprints = fingerprints[valid_indices].reset_index(drop=True)
 X = np.stack(fingerprints)
 
 # Save features and labels
+
 np.save("data/features.npy", X)
 df[["activity_label"]].to_csv("data/labels.csv", index=False)
 

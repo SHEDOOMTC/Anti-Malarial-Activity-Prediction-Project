@@ -174,4 +174,5 @@ cython_debug/
 .pypirc
 # large files
 data/features.npy
+data/features_combined.csv
 *.npy
