@@ -1,4 +1,4 @@
-Initial minimization of MMP3 (MMMM): solvent molecules and added ions
+Initial minimization of MMP3 (MMMM):
  &cntrl
   imin   = 1,
   maxcyc = 5000,
