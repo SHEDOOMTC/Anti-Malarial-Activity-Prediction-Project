@@ -1,5 +1,4 @@
-Equilibration Step of MMP3 (MMMM): stage-1
-
+Equilibration Step of MMP3 (MMMM): 
 &cntrl
   imin=0,
   irest=1,
