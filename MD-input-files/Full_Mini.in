@@ -1,4 +1,4 @@
-full  minimization of MMP3 (MMMM): protein, ligand, solvent molecules and added ions
+full  minimization of MMP3 (MMMM):
  &cntrl
   imin   = 1,
   maxcyc = 50000,
